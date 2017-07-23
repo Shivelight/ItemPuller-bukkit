@@ -1,0 +1,15 @@
+name: ItemPuller
+version: 0.1.0
+description: ItemPuller Plugin
+author: CWKFR
+webiste: 'https://github.com/cwkfr/ItemPuller'
+main: io.github.cwkfr.ItemPuller.ItemPuller
+commands:
+  puller:
+    description: ItemPuller Command
+  pull:
+    description: Pull items from player
+permission:
+  itempuller.puller:
+    default: op
+  

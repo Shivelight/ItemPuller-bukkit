@@ -1,0 +1,4 @@
+ItemPuller:
+# Define type its lore like this
+  test: 'Test Lore'
+  quest: 'Quest Item'
