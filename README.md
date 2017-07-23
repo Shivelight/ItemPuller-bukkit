@@ -11,9 +11,9 @@ Pull items based on first line lore from player inventory. Only useful in rare c
         
 ## Configuration
     ItemPuller:
-    # Define type its lore like this
-    test: 'Test Lore'
-    quest: 'Quest Item'
+      # Define type its lore like this
+      test: 'Test Lore'
+      quest: 'Quest Item'
     
     
 Requested privately ._.
